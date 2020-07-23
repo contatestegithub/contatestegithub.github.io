@@ -1,0 +1,17 @@
+html, body{
+    margin: 0;
+}
+
+#s1{
+    background-color: darksalmon;
+    padding-top: 20px;
+    padding-left: 80px;
+    border: 10px black solid;
+}
+
+#s2{
+    background-color: turquoise;
+    padding: 20px;
+    border: 20px purple solid;
+    margin-top: 30px;
+}
